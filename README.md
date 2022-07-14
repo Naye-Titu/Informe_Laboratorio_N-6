@@ -105,10 +105,47 @@ de potencia.
 
 ![image](https://user-images.githubusercontent.com/105722861/178880574-127aacc7-37d7-44bf-a5d0-855455f02057.png)
 
-3.2.4. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote
-los resultados en la tabla 6.1.
+3.2.4. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 6.1.
 
+* Resistor de 220Ω
 
+![image](https://user-images.githubusercontent.com/105722861/178886449-f7a81f8e-6b14-46b9-8650-a4c6cc76fcf1.png)
+
+* Resistor de 470Ω
+
+![image](https://user-images.githubusercontent.com/105722861/178886536-09473479-65cd-4a43-a0c0-f4b6576cb7c5.png)
+
+* Resistor de 680Ω
+
+![image](https://user-images.githubusercontent.com/105722861/178886655-a8eb6173-7ce8-455e-9841-abd72fb8b28c.png)
+
+* Resistor de 820Ω
+
+![image](https://user-images.githubusercontent.com/105722861/178886773-21651131-9bf9-44ef-a4f6-d9ada71cb370.png)
+
+* Resistor de 1000Ω
+
+![image](https://user-images.githubusercontent.com/105722861/178886910-5f65ae31-09c7-4050-a0a5-9c636c930b2e.png)
+
+* Resistor de 1.5kΩ
+
+![image](https://user-images.githubusercontent.com/105722861/178890233-b3daafff-d2c6-410c-b12a-9c49c0fcadc9.png)
+
+* Resistor de 1.8kΩ
+
+![image](https://user-images.githubusercontent.com/105722861/178890379-d6b956ed-28f5-4657-95a8-62acc2ec726d.png)
+
+* Resistor de 2.2kΩ
+
+![image](https://user-images.githubusercontent.com/105722861/178890695-2fb04ce9-8461-4f68-aebe-4531f1e89388.png)
+
+* Resistor de 3.9kΩ
+
+![image](https://user-images.githubusercontent.com/105722861/178890812-849c98b1-6d9f-4da2-b262-bf8712e0338d.png)
+
+* Resistor de 4.7kΩ
+
+![image](https://user-images.githubusercontent.com/105722861/178890899-6541184d-8f9b-4988-8855-f51fdb2d918c.png)
 
 4.- CALCULO DE ERRORES.
 
