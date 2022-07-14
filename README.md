@@ -165,6 +165,10 @@ Es la de 1200 Ω, porque es la resistencia es igual a la de 1200 Ω, ya que como
 
 3.2.9 Grafique la curva Potencia vs RL y comente.
 
+![image](https://user-images.githubusercontent.com/105722861/178904106-bf518eef-6fa6-490f-a49e-79726f31fd79.png)
+
+En la gráfica se puede notar que la relación entre potencia y RL forma una parábola hasta llagar a su punto mas alto donde maximiza la trasferencia de potencia (MTP)la resistencia de carga que seía de 1.8 kΩ y 0.045 Watts, sin embargo esto no asegura que tenga una eficiencia máxima.
+
 4.- CALCULO DE ERRORES.
 
 ![image](https://user-images.githubusercontent.com/105722861/178899556-c194f96d-4a7e-4dab-bcc9-11efd1ca2d07.png)
