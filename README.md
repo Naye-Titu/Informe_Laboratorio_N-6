@@ -147,6 +147,10 @@ de potencia.
 
 ![image](https://user-images.githubusercontent.com/105722861/178891179-0c3293e7-b086-4a68-bbc2-c43bfac749e4.png)
 
+3.2.5 Anote los resultados medidos.
+
+
+
 4.- CALCULO DE ERRORES.
 
 5.- VIDEO
