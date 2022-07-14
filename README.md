@@ -167,14 +167,28 @@ Es la de 1200 Ω, porque es la resistencia es igual a la de 1200 Ω, ya que como
 
 4.- CALCULO DE ERRORES.
 
+![image](https://user-images.githubusercontent.com/105722861/178899556-c194f96d-4a7e-4dab-bcc9-11efd1ca2d07.png)
 
+![image](https://user-images.githubusercontent.com/105722861/178899651-61cff4ad-858f-4c4a-8639-54a025aab85b.png)
+
+![image](https://user-images.githubusercontent.com/105722861/178899771-6cb93cd3-47ef-4fbc-9fdc-ff232979b985.png)
 
 5.- VIDEO
 
 6.- CONCLUSIONES.
 
+* Como conclusión luego de la práctica reliazada podemos concluir que, si el valor de la resistencia de carga es igual a la resistencia de fuente se obtiene la mayor transferencia de energía. En la aplicación la resistencia de la fuente, Rs es la resistencia equivalente o resistencia de Thevenin.
+
+* Tanto la resistencia de carga como la de fuente absorben la potencia total suministrada por una fuente como V_TH.
+
+* En base a lo experimental y calculado se logro demostrar que para valores muy aproximados a la resistencia interna (1.2 kohm) se puede llegar a obtener el valor de la potencia maxima asi mismo para los valores que van desde la cantidad mas baja hacia la cantidad mas aproximada a la resistencia interna la potencia tiende a crecer y si la resistencia es mayor a la interna la potencia empieza a descender.
+
+* De acuerdo a los resultados obtenidos de manera analítica y practica se pudo evidenciar un porcentaje de error mínimo para ciertas resistencias, ya que es por la aproximación de los resultados calculados.
+
 7.- BIBLIOGRAFIÍA.
 
+* Teorema de transferencia de potencia máxima. La Física y Química. (2021). Retrieved 2 August 2021, from https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/.
 
+* ¿Qué es un vatímetro? (n.d.). Autosolar.es. Retrieved January 14, 2022, from https://autosolar.es/blog/aspectos-tecnicos/que-es-un-vatimetro
 
 
