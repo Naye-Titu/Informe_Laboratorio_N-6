@@ -53,43 +53,43 @@ de potencia.
 
 3.2.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anotar los resultados medidos.
 
-Resistor de 220 Ω
+* Resistor de 220 Ω
 
 ![image](https://user-images.githubusercontent.com/105722861/178869371-6a386d9e-4ae3-465e-b23a-64500e305765.png)
 
-Resistor de 470 Ω
+* Resistor de 470 Ω
 
 ![image](https://user-images.githubusercontent.com/105722861/178871589-ba3bef74-51ad-4eff-ad08-93b5d0628155.png)
 
-Resistor de 680 Ω
+* Resistor de 680 Ω
 
 ![image](https://user-images.githubusercontent.com/105722861/178872108-51d944d5-2778-4970-9d33-f1634a01f454.png)
 
-Resistor de 820 Ω
+* Resistor de 820 Ω
 
 ![image](https://user-images.githubusercontent.com/105722861/178872574-82d6c780-b611-485f-b852-2d7d1f0d9a12.png)
 
-Resistor de 1 kΩ
+* Resistor de 1 kΩ
 
 ![image](https://user-images.githubusercontent.com/105722861/178873053-c08454e3-b476-4149-93b2-b94bbd95764c.png)
 
-Resistor de 1.5 kΩ
+* Resistor de 1.5 kΩ
 
 ![image](https://user-images.githubusercontent.com/105722861/178873578-6be07284-982e-434b-89af-f88fa9075127.png)
 
-Resistor de 1.8 kΩ
+* Resistor de 1.8 kΩ
 
 ![image](https://user-images.githubusercontent.com/105722861/178874023-878647d1-3550-4656-980e-ba15616054c0.png)
 
-Resistor de 2.2 kΩ
+* Resistor de 2.2 kΩ
 
 ![image](https://user-images.githubusercontent.com/105722861/178874521-f4dd0f90-8913-4082-a86e-dd2fad8bd98a.png)
 
-Resistor de 3.9 kΩ
+* Resistor de 3.9 kΩ
 
 ![image](https://user-images.githubusercontent.com/105722861/178874906-016f6808-c128-471b-82d5-796909c1fa74.png)
 
-Resistor de 4.7 kΩ
+* Resistor de 4.7 kΩ
 
 ![image](https://user-images.githubusercontent.com/105722861/178875176-7f42386c-9aec-4193-901e-2b2c09be937a.png)
 
@@ -104,6 +104,11 @@ Resistor de 4.7 kΩ
 ![image](https://user-images.githubusercontent.com/105722861/178880539-d16e5067-1a54-490c-b4f7-48cbb4c16e89.png)
 
 ![image](https://user-images.githubusercontent.com/105722861/178880574-127aacc7-37d7-44bf-a5d0-855455f02057.png)
+
+3.2.4. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote
+los resultados en la tabla 6.1.
+
+
 
 4.- CALCULO DE ERRORES.
 
