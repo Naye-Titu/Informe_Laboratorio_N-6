@@ -93,11 +93,17 @@ Resistor de 4.7 kΩ
 
 ![image](https://user-images.githubusercontent.com/105722861/178875176-7f42386c-9aec-4193-901e-2b2c09be937a.png)
 
+3.2.3 Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
 
+![image](https://user-images.githubusercontent.com/105722861/178880294-8e38c278-6eab-49fe-9ef2-5a6202f0b584.png)
 
+![image](https://user-images.githubusercontent.com/105722861/178880411-e290ba67-1ad8-4d7d-9641-e808971631bd.png)
 
+![image](https://user-images.githubusercontent.com/105722861/178880470-3b67d7a4-2112-4f2a-8246-d6307fb9ee7c.png)
 
+![image](https://user-images.githubusercontent.com/105722861/178880539-d16e5067-1a54-490c-b4f7-48cbb4c16e89.png)
 
+![image](https://user-images.githubusercontent.com/105722861/178880574-127aacc7-37d7-44bf-a5d0-855455f02057.png)
 
 4.- CALCULO DE ERRORES.
 
