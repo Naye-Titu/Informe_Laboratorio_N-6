@@ -97,13 +97,13 @@ de potencia.
 
 ![image](https://user-images.githubusercontent.com/105722861/178880294-8e38c278-6eab-49fe-9ef2-5a6202f0b584.png)
 
-![image](https://user-images.githubusercontent.com/105722861/178880411-e290ba67-1ad8-4d7d-9641-e808971631bd.png)
+![image](https://user-images.githubusercontent.com/105722861/178891347-9a3ccc5a-9542-4f8d-be9c-60306c64b69e.png)
 
-![image](https://user-images.githubusercontent.com/105722861/178880470-3b67d7a4-2112-4f2a-8246-d6307fb9ee7c.png)
+![image](https://user-images.githubusercontent.com/105722861/178891374-9eae5891-bdb8-4f6c-a4c8-bfe1c9b85d6d.png)
 
-![image](https://user-images.githubusercontent.com/105722861/178880539-d16e5067-1a54-490c-b4f7-48cbb4c16e89.png)
+![image](https://user-images.githubusercontent.com/105722861/178891398-2e2c3e0b-6865-445d-a577-5ce592c9b48e.png)
 
-![image](https://user-images.githubusercontent.com/105722861/178880574-127aacc7-37d7-44bf-a5d0-855455f02057.png)
+![image](https://user-images.githubusercontent.com/105722861/178891402-4d13cb2a-6280-4fdb-835c-449a5810541d.png)
 
 3.2.4. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 6.1.
 
@@ -145,7 +145,7 @@ de potencia.
 
 * Resistor de 4.7kΩ
 
-![image](https://user-images.githubusercontent.com/105722861/178890899-6541184d-8f9b-4988-8855-f51fdb2d918c.png)
+![image](https://user-images.githubusercontent.com/105722861/178891179-0c3293e7-b086-4a68-bbc2-c43bfac749e4.png)
 
 4.- CALCULO DE ERRORES.
 
