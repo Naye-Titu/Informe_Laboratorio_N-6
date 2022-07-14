@@ -41,7 +41,44 @@ de potencia.
 
 3.- EXPLICACIÓN DEL PROCEDIMIENTO
 
-MATERIAL Y EQUIPO REQUERIDO.
+3.1 MATERIAL Y EQUIPO REQUERIDO.
+
+![image](https://user-images.githubusercontent.com/105722861/178867359-7c1f0d31-f414-4fdf-8977-2b0035559952.png)
+
+3.2 PROCEDIMIENTO
+
+3.2.1 Arme el circuito que se muestra en la figura 6.1.
+
+![image](https://user-images.githubusercontent.com/105722861/178867451-6d8b1279-c480-41c1-9ff4-e04ad4e5076c.png)
+
+3.2.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anotar los resultados medidos.
+
+Resistor de 220 Ω
+
+Resistor de 470 Ω
+
+Resistor de 680 Ω
+
+Resistor de 820 Ω
+
+Resistor de 1 kΩ
+
+Resistor de 1.5 kΩ
+
+Resistor de 1.8 kΩ
+
+Resistor de 2.2 kΩ
+
+Resistor de 3.9 kΩ
+
+Resistor de 4.7 kΩ
+
+
+
+
+
+
+
 
 4.- CALCULO DE ERRORES.
 
