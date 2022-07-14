@@ -151,7 +151,23 @@ de potencia.
 
 ![image](https://user-images.githubusercontent.com/105722861/178896266-10e1e96a-0edb-4c3e-82d5-aeb90d5e25cc.png)
 
+3.2.6 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
+respuesta.
+
+En el circuito dado si se cumplio el Teorema de la maxima transferencia de potencia ya que la maxima potencia calculada se dio entre 1 kΩ y 1.5 kΩ que es igual a la resitencia interna de la fuente que es de 1.2 kΩ
+
+3.2.7 ¿Cuál fue la potencia máxima en RL? 
+
+La potencia fue la de 46.48 Watts sin embargo en el laboratorio experimentalmente hablando no arrojo un valor de 0.050 W en la resistencia de 1500 ohmios, pero ya se demostro que el vatímetro del simulador nos arroja calculos erroneos y muy confusos, por lo que debemos basarnos en los datos calculados. 
+
+3.2.8 ¿Para qué valor de RL se obtiene la MTP? 
+Es la de 1200 Ω, porque es la resistencia es igual a la de 1200 Ω, ya que como estos 2 valores son iguales el voltaje sera igual al de la fuente, por lo que en la formula de voltaje por intensidad no arroja el valor mas grande de todos.
+
+3.2.9 Grafique la curva Potencia vs RL y comente.
+
 4.- CALCULO DE ERRORES.
+
+
 
 5.- VIDEO
 
