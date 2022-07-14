@@ -179,6 +179,8 @@ En la gráfica se puede notar que la relación entre potencia y RL forma una par
 
 5.- VIDEO
 
+https://www.youtube.com/watch?v=pyUz-xhhpGI
+
 6.- CONCLUSIONES.
 
 * Como conclusión luego de la práctica reliazada podemos concluir que, si el valor de la resistencia de carga es igual a la resistencia de fuente se obtiene la mayor transferencia de energía. En la aplicación la resistencia de la fuente, Rs es la resistencia equivalente o resistencia de Thevenin.
