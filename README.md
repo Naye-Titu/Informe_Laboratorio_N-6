@@ -149,7 +149,7 @@ de potencia.
 
 3.2.5 Anote los resultados medidos.
 
-
+![image](https://user-images.githubusercontent.com/105722861/178896266-10e1e96a-0edb-4c3e-82d5-aeb90d5e25cc.png)
 
 4.- CALCULO DE ERRORES.
 
